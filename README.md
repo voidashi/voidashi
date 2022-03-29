@@ -10,10 +10,10 @@ jeffbuenx/jeffbuenx is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
     
-    >if you gaze long enough into an abyss the abyss will gaze back into you
+>if you gaze long enough into an abyss the abyss will gaze back into you
     
-    >lasciate ogne spezanza, voi ch'intrate
+>lasciate ogne spezanza, voi ch'intrate
+  
+>vi veri veniversum vivus vici
     
-    >vi veri veniversum vivus vici
-    
-    >that is not dead which can eternal lie, / and with strange aeons even death may die.
+>that is not dead which can eternal lie, / and with strange aeons even death may die.
