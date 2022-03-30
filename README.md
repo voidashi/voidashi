@@ -1,5 +1,5 @@
-## void.
-- 👋 Hi, I’m @jeffbuenx
+## Who am i?
+- 👋 Hi, I’m [Jefferson Bueno](https://www.github.com/jeffbuenx), a computer science student at the Institute Of Mathematics and Computer Science from the University of São Paulo ([ICMC-USP](https://www.icmc.usp.br/en/about)).
 - 👀 I’m interested in indie games, data security and cofffee.
 - 🌱 I’m currently learning c, c++, java, python, etc.
 - 💞️ I’m looking to collaborate on on anything that interest me!
