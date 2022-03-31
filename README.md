@@ -1,8 +1,3 @@
-         ▄   ▄
-     ▄█▄ █▀█▀█ ▄█▄
-    ▀▀████▄█▄████▀▀
-         ▀█▀█▀
-
 ## Who am i?
 
 - Hi, i’m [Jefferson Bueno](https://www.github.com/jeffbuenx), a Computer Science student at the Institute Of Mathematics and Computer Science from the University of São Paulo ([ICMC-USP](https://www.icmc.usp.br/en/about)).
@@ -29,7 +24,12 @@ I'm willing to collaborate with open-source projects.
 ## How to reach me
 - 📫 Telegram: @jeffbuenx
 
-### feel the void
+
+         ▄   ▄
+     ▄█▄ █▀█▀█ ▄█▄
+    ▀▀████▄█▄████▀▀
+         ▀█▀█▀
+    Feel the void
 >if you gaze long enough into an abyss the abyss will gaze back into you
     
 >lasciate ogne spezanza, voi ch'intrate
