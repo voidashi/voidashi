@@ -1,6 +1,11 @@
-## Who am i?
+## About me
 
+### Who amt i?
 - Hi, i’m [Jefferson Bueno](https://www.github.com/jeffbuenx), a Computer Science student at the Institute Of Mathematics and Computer Science from the University of São Paulo ([ICMC-USP](https://www.icmc.usp.br/en/about)).
+
+### Languages
+- English
+- Portuguese
 
 ## What i do?
 
