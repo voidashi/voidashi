@@ -40,12 +40,3 @@ I'm currently learning:
          ▄█▄ █▀█▀█ ▄█▄
         ▀▀████▄█▄████▀▀
              ▀█▀█▀
-
-
->if you gaze long enough into an abyss the abyss will gaze back into you
-    
->lasciate ogne spezanza, voi ch'intrate
-  
->vi veri veniversum vivus vici
-    
->that is not dead which can eternal lie, / and with strange aeons even death may die.
