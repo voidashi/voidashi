@@ -1,4 +1,5 @@
 # Welcome to the void
+***
 
 ## About me
 
@@ -11,6 +12,7 @@
 
 ###
 
+***
 
 ## What i do?
 
@@ -19,6 +21,7 @@
 - However, i still frequently use high-level languages like python, and and i plan to dive deeply into artificial inteligence.
 
 - I'm obssessed with Unix ricing and customization. If i'm going to spend most of my time somewhere, that place should be efficient, confortable, and beautiful, right?
+***
 
 ## What am i learning?
 I'm currently learning: 
@@ -26,16 +29,17 @@ I'm currently learning:
 - **C++, Java, Python, Lua**:
 - **JS and CSS**: I'm not an assiduous web-dev, but it's always useful
 - **Assembly**: Learning this is pure pain, but it's powerful
+***
 
 ## What am i willing to collaborate on?
 I'm willing to collaborate with open-source projects.
 
-
+***
 ## How to reach me
 - 📫 Telegram: @jeffbuenx
 
 
-*******
+***
              ▄   ▄
          ▄█▄ █▀█▀█ ▄█▄
         ▀▀████▄█▄████▀▀
