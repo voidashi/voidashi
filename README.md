@@ -10,8 +10,6 @@
 - English
 - Portuguese
 
-###
-
 ***
 
 ## 🔨 What i do?
