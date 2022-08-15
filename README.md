@@ -16,7 +16,7 @@
 I'm currently learning: 
 - **C**
 - **C++, Java, Python, Lua**
-- **JS
+- **JS**
 
 ***
 ## 📫 How to reach me
