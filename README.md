@@ -9,5 +9,3 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffbuenx&hide=html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffbuenx&count_private=tru&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
