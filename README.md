@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  Hello, i'm <strong>Jefferson Bueno<strong><br>
+  Hello, i'm <strong>Jefferson Bueno</strong><br>
   Computer Science undergraduate at the Institute Of Mathematics and Computer Science from the University of São Paulo (<strong>ICMC-USP</strong>).<br>
 </p>
 
