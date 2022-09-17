@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:jeffmbueno@gmail.com" alt="Gmail">
+  <a href="mailto:jeffmbueno@duck.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jeffmbueno@gmail.com" /></a>
 
   <a href="https://wa.me/+5516999759292" alt="WhatsApp">
