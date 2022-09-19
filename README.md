@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Skills: <strong>Linux, UX/UI Design, Data Security.</strong>
+  💼 Skills: <strong>Linux, Graphic design, Data Security.</strong>
 </p>
 
 <p align="left">
