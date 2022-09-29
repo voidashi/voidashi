@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  👤 Know more about me <strong><a href="https://jeffbuenx.github.io/" alt="Website">here</a></strong>
+  👤 Know more about me <strong><a href="https://voidshin.github.io/" alt="Website">here</a></strong>
 </p>
 
 <p align="left">
