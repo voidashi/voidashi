@@ -1,4 +1,4 @@
-<img src="img/58582c39f034562c58220601.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="img/58582c39f034562c58220601.png" heigth="425px" width="425px" align="right" alt="Computador iuriCode">
 
 <p align="left">
   Hello, i'm <strong>Jefferson Bueno</strong><br>
