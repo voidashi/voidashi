@@ -4,7 +4,6 @@
   Hello, i'm <strong>Jefferson Bueno</strong><br>
   Computer Science undergraduate at the Institute Of Mathematics and Computer Science from the University of São Paulo (<strong>ICMC-USP</strong>).<br>
 </p>
-<hr>
 <p align="left">
   🦄 Languages: <strong>C, C++, Java, Python, Javascript, Lua, Rust and Shell</strong>
 </p>
