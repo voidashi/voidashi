@@ -1,4 +1,4 @@
-<img src="img/Saitama.png" heigth="400px" width="400px" align="right" alt="Saitama OK">
+<img src="img/saitama.png" heigth="400px" width="400px" align="right" alt="Saitama OK">
 
 <p align="left">
   Hello, i'm <strong>Jefferson Bueno</strong><br>
