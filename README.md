@@ -37,3 +37,5 @@
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jeffbuenx"/></a>
 </p>  
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidshin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
