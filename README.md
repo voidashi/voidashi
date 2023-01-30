@@ -1,5 +1,5 @@
 <!-- <img src="img/saitama.png" heigth="400px" width="400px" align="right" alt="Saitama OK"> -->
-<img src="img/ghost.png" heigth="400px" width="400px" align="right" alt="Ghost">
+<img src="img/ghost_small.png" heigth="400px" width="400px" align="right" alt="Ghost">
 
 <p align="left">
   Hello, i'm <strong>Jefferson Bueno</strong><br>
