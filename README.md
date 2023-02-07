@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  👤 Know more about me <strong><a href="https://voidshin.github.io/" target="_blank" rel="noopener" alt="Website">here</a></strong>
+  👤 Know more about me <strong><a href="https://voidshin.github.io/" target="_blank" alt="Website">here</a></strong>
 </p>
 
 <p align="left">
