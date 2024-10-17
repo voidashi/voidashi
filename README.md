@@ -1,41 +1,40 @@
-<!-- <img src="img/saitama.png" heigth="400px" width="400px" align="right" alt="Saitama OK"> -->
-
-<p align="left">
-  Hello, i'm <strong>Jefferson Bueno</strong><br>
-  Computer Science undergraduate at the Institute Of Mathematics and Computer Science from the University of São Paulo (<strong>ICMC-USP</strong>).<br>
-</p>
-<p align="left">
-  🦄 Languages: <strong>C, C++, Java, Python, Javascript, Lua, Rust and Shell</strong>
+<p align="center">
+  <img src="https://github.com/voidashi.png" width="150px" alt="Profile Picture">
 </p>
 
-<p align="left">
-  💼 Skills: <strong>Linux, Graphic design, Data Security.</strong>
+<h1 align="center">Hey there, I'm Jeff! 👋</h1>
+
+<p align="center">
+  Computer Science student | Tech Enthusiast | Low-level language fan
 </p>
 
-<p align="left">
-  👤 Know more about me <strong><a href="https://虚.net" target="_blank" alt="Website">here</a></strong>
+<p align="center">
+  <a href="https://虚.net">Website</a> •
+  <a href="mailto:jeffmbueno@duck.com">Email</a> •
+  <a href="https://github.com/voidashi">GitHub</a>
 </p>
 
-<p align="left">
-  💌 How to reach me ⤵️
+---
+
+### 🔧 Skills & Tools:
+- **Programming Languages:** C, C++, Rust, Java, Python, JavaScript, Lua
+- **Tech Stack:** Linux, Shell Scripting, Data Security, Graphic Design
+- **Interests:** Open-source, Game Dev, Cybersecurity
+
+---
+
+### 🖥️ Current Projects:
+- 🔒 **Building:** Secure voting systems with blockchain technology
+- 🎮 **Developing:** A side-scroller game using Godot Engine
+- 💡 **Learning:** More about distributed systems and Rust programming
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=voidashi&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
-
-<p align="left">
-  <a href="mailto:jeffmbueno@duck.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:jeffmbueno@gmail.com" /></a>
-
-  <!--
-  <a href="https://wa.me/+5516999759292" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/+5516999759292"/></a>
-  -->
-
-  <a href="https://www.facebook.com/JeffMBueno/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/JeffMBueno/"/></a>
-
-  <a href="https://www.instagram.com/jeffmbueno/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jeffbuenx/"/></a>
-  
-  <a href="https://twitter.com/jeffmbueno" alt="Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jeffbuenx"/></a>
-</p>  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidashi&layout=compact&theme=dark" alt="Most Used Languages">
+</p>
