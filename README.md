@@ -17,7 +17,7 @@
 ---
 
 ### 🔧 Skills & Tools:
-- **Programming Languages:** C, C++, Rust, Java, Python, JavaScript, Lua
+- **Programming Languages:** C, C++, Java, Python, JavaScript, Lua
 - **Tech Stack:** Linux, Shell Scripting, Data Security, Graphic Design
 - **Interests:** Open-source, Game Dev, Cybersecurity
 
@@ -26,7 +26,7 @@
 ### 🖥️ Current Projects:
 - 🔒 **Building:** Secure voting systems with blockchain technology
 - 🎮 **Developing:** A side-scroller game using Godot Engine
-- 💡 **Learning:** More about distributed systems and Rust programming
+- 💡 **Learning:** More about distributed systems and Zig programming
 
 ---
 
