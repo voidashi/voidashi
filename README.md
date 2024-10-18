@@ -34,9 +34,11 @@
 
 ### 📊 GitHub Stats:
 
+<!---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=voidashi&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
+--->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidashi&layout=compact&theme=dark" alt="Most Used Languages">
 </p>
