@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://虚.net">Website</a> •
-  <a href="mailto:jeffmbueno@duck.com">Email</a> •
-  <a href="https://github.com/voidashi">GitHub</a>
+  <a href="https://虚.net" target="_blank">Website</a> •
+  <a href="mailto:jeffmbueno@duck.com" target="_blank">Email</a> •
+  <a href="https://github.com/voidashi target="_blank"">GitHub</a>
 </p>
 
 ---
