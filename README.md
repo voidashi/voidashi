@@ -1,8 +1,6 @@
-<!--
 <p align="center">
   <img src="https://github.com/voidashi.png" width="150px" alt="Profile Picture">
 </p>
--->
 
 <h1 align="center">🛠️ Accessing Jeff's Terminal...</h1>
 
