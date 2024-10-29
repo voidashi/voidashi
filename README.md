@@ -4,7 +4,7 @@
 void────────────────────────────ashi
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=435&lines=entering+the+void...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=435&lines=entering+the+void...;initializing+systems...;establishing+connection...)](https://git.io/typing-svg)
 
 </div>
 
