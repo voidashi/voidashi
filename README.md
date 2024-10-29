@@ -1,7 +1,7 @@
 <div align="center">
   
-```ascii
-void────────────────────────────ashi
+```bash
+「 voidashi 」
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=false&width=435&lines=entering+the+void...;initializing+systems...;establishing+connection...)](https://git.io/typing-svg)
@@ -43,7 +43,7 @@ STATUS     : diving into distributed systems
 
 <div align="center">
   
-### void protocols
+### protocols
 
 [![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=A78BFA)](#)
 [![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=A78BFA)](#)
@@ -68,7 +68,7 @@ STATUS     : diving into distributed systems
 <div align="center">
   
 ```ascii
-void──────────────────────────/END/
+閉
 ```
 
 </div>
