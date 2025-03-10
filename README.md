@@ -30,7 +30,7 @@ STATUS     : diving into distributed systems
   ```ascii
   ┌─ current operations ───────────────┐
   │                                    │
-  │  ⚡ cryptographic systems          │
+  │  ⚡ pentest frameworks             │
   │  🎮 game engine development        │
   │  🔬 distributed architecture       │
   │                                    │
