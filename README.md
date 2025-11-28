@@ -57,7 +57,7 @@ STATUS     : diving into distributed systems
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=firefox&logoColor=FF5656)](https://虚.net)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=FF5656)](mailto:jeffmbueno@duck.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=FF5656)](https://github.com/voidashi)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter&logoColor=FF5656)](https://twitter.com/jeffmzb)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=X&logoColor=FF5656)](https://twitter.com/jeffmzb)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=FF5656)](https://instagram.com/jeffmzb)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=FF5656)](https://t.me/jeffmbueno)
 
