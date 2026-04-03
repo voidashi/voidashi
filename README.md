@@ -28,24 +28,6 @@ STATUS     : [active]
 
 <div align="center">
 
-```
-┌─ current operations ────────────────────┐
-│                                         │
-│  · pentest & vulnerability research     │
-│  · game engine development              │
-│  · distributed systems architecture     │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-### protocols
-
 [![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=1BBFB8)](#)
 [![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=1BBFB8)](#)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=1BBFB8)](#)
@@ -69,8 +51,6 @@ STATUS     : [active]
 <br>
 
 <div align="center">
-
-### interfaces
 
 [![Website](https://img.shields.io/badge/虚.net-000000?style=flat&logo=firefox&logoColor=1BBFB8)](https://虚.net)
 [![Email](https://img.shields.io/badge/mail-000000?style=flat&logo=gmail&logoColor=1BBFB8)](mailto:jeffmbueno@duck.com)
