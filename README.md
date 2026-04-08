@@ -38,9 +38,9 @@ STATUS     : [active]
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidashi&show_icons=true&count_private=true&bg_color=0d0d0f&title_color=bf3a4a&text_color=a09ea4&icon_color=bf3a4a&border_color=1a1a1e)](https://github.com/voidashi)
+![Stats](./profile/stats.svg)
 &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidashi&layout=compact&bg_color=0d0d0f&title_color=bf3a4a&text_color=a09ea4&border_color=1a1a1e)](https://github.com/voidashi)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
