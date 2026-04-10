@@ -1,8 +1,10 @@
 <div align="center">
 
+<!--
 ```
 虚
 ```
+-->
 
 </div>
 
@@ -69,8 +71,10 @@ STATUS     : [active]
 
 <div align="center">
 
+<!--
 ```
 閉
 ```
+-->
 
 </div>
