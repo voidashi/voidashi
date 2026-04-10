@@ -53,8 +53,8 @@ STATUS     : [active]
 [![site](https://img.shields.io/badge/虚.net-000000?style=flat&logo=firefox&logoColor=bf3a4a)](https://虚.net)
 [![mail](https://img.shields.io/badge/mail-000000?style=flat&logo=gmail&logoColor=bf3a4a)](mailto:jeffmbueno@duck.com)
 [![github](https://img.shields.io/badge/github-000000?style=flat&logo=github&logoColor=bf3a4a)](https://github.com/voidashi)
-[![x](https://img.shields.io/badge/x-000000?style=flat&logo=x&logoColor=bf3a4a)](https://twitter.com/jeffmzb)
-[![instagram](https://img.shields.io/badge/instagram-000000?style=flat&logo=instagram&logoColor=bf3a4a)](https://instagram.com/jeffmzb)
+<!--[![x](https://img.shields.io/badge/x-000000?style=flat&logo=x&logoColor=bf3a4a)](https://twitter.com/jeffmzb)-->
+<!--[![instagram](https://img.shields.io/badge/instagram-000000?style=flat&logo=instagram&logoColor=bf3a4a)](https://instagram.com/jeffmzb)-->
 [![telegram](https://img.shields.io/badge/telegram-000000?style=flat&logo=telegram&logoColor=bf3a4a)](https://t.me/jeffmbueno)
 
 </div>
